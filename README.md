@@ -16,5 +16,6 @@ Key Steps:
 	3. Update Python code to point to the location of your Anthem JSON File
 	4. Modify and optimize code
 	5. Run Code
-  6. Capture screenshot of your SQLite database "Date created",  "Date modified", & "Size"
-Post screenshot here![image](https://github.com/numbercruncher01/anthem_mrf_index/assets/77574184/9af2fbea-5f79-45ca-a262-53e50db2f84f)
+  	6. Capture screenshot of your SQLite database "Date created",  "Date modified", & "Size"
+   
+   Post screenshot here![image](https://github.com/numbercruncher01/anthem_mrf_index/assets/77574184/9af2fbea-5f79-45ca-a262-53e50db2f84f)
